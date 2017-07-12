@@ -8,4 +8,5 @@ This script allows you to download all files and all versions of that file by di
 <b>How to Use</b>
 
 Install AWS client using - pip install awscli
+
 Edit Python script to provide bucket and key values.
