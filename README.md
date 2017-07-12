@@ -3,7 +3,7 @@
 
 <b>Description</b>
 
-This script allows you to download all files and all versions of that file by directory from S3 given a bucket name and key has been provided.
+This script allows you to download all files and all versions of that file by directory from S3 given a bucket name and key has been provided.  The different versions of the file will be saved with the suffix _0, _1, _2, etc.
 
 <b>How to Use</b>
 
